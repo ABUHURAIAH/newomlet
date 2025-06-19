@@ -1,0 +1,11 @@
+.fcg{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.line{
+    border: solid gray 0.5px;
+}
+.remove{
+    border: none;
+}
