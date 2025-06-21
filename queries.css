@@ -1,5 +1,5 @@
-/* 384 px mobile view */
-@media (max-width:24em){
+/* 480 px mobile view */
+@media (max-width:30em){
    .box{
     padding: 0;
     margin:0;
